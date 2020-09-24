@@ -1,0 +1,1 @@
+Rename JSSKIN.renameme to JSSKIN.ocx  then run group1.vgb
